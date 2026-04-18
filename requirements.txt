@@ -1,0 +1,9 @@
+crewai
+langchain
+openai
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
