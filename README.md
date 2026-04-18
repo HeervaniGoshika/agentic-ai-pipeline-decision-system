@@ -5,6 +5,17 @@ This project goes beyond traditional ML by combining **multi-agent reasoning, me
 
 ---
 
+## 🖥️ Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+## 🧠 Prediction Output
+![Output](screenshots/output.png)
+
+## 📈 Risk Trend & Agent Reasoning
+![Graph](screenshots/graph.png)
+
+---
+
 ## ✨ Key Features
 
 - 📉 **Failure Risk Prediction** using Machine Learning (Regression)
