@@ -3,16 +3,6 @@
 An intelligent **Agentic AI system** for predictive maintenance in oil & gas pipelines.  
 This project goes beyond traditional ML by combining **multi-agent reasoning, memory, self-correction, and real-time visualization**.
 
----
-
-## 🖥️ Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-## 🧠 Prediction Output
-![Output](screenshots/output.png)
-
-## 📈 Risk Trend & Agent Reasoning
-![Graph](screenshots/graph.png)
 
 ---
 
