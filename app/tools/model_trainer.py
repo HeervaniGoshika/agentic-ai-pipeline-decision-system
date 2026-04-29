@@ -17,4 +17,5 @@ def train_model(df, target_column):
 
     joblib.dump(model, "outputs/model.pkl")
 
+# returns accuracy
     return acc
