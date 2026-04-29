@@ -1,5 +1,5 @@
 Pipe_Size_mm,Thickness_mm,Material,Grade,Max_Pressure_psi,Temperature_C,Corrosion_Impact_Percent,Thickness_Loss_mm,Material_Loss_Percent,Time_Years,Condition,Failure_Risk,Inspection_Cost,Repair_Cost,Downtime,Recommended_Action
-800,15.48,Carbon Steel,ASTM A333 Grade 6,300,84.9,16.04,4.91,31.72,2,Moderate,0.3745401188473625,511,12373,9,Monitor
+850,15.48,Carbon Steel,ASTM A333 Grade 6,300,84.9,16.04,4.91,31.72,2,Moderate,0.3745401188473625,511,12373,9,Monitor
 800,22.0,PVC,ASTM A106 Grade B,150,14.1,7.38,7.32,33.27,4,Critical,0.9507143064099162,1841,10907,1,Immediate Repair
 400,12.05,Carbon Steel,API 5L X52,2500,0.6,2.12,6.32,52.45,7,Critical,0.7319939418114051,715,11097,8,Immediate Repair
 1500,38.72,Carbon Steel,API 5L X42,1500,52.7,5.58,6.2,16.01,19,Critical,0.5986584841970366,838,17553,4,Schedule Inspection
