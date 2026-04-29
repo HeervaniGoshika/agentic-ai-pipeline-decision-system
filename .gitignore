@@ -1,3 +1,14 @@
-.env
-myenv
-_pycache_
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+myenv/
+venv/
+
+# Outputs
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
