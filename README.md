@@ -123,5 +123,3 @@ streamlit run app/ui/dashboard.py
 4. Check **Memory Table** for past decisions
 
 ---
-
-# Author
